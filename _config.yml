@@ -1,5 +1,8 @@
 # Site Build Settings
 
+# for custom domain
+url: "https://euthymiatechnologies.com"
+
 # jekyll-paginate configuration
 paginate:            5
 
