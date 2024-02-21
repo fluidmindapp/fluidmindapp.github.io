@@ -8,6 +8,7 @@ google-ID: ''
 
 menu:
 - {name: 'FluidMind',          url: 'fluidmind'}
+- {name: 'Blog',               url: 'blog'}
 - {name: 'Testing',            url: 'testing'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}

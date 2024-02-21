@@ -11,5 +11,5 @@ image: cuba-1.jpg
 
 FluidMind is the mental health symptom tracker for self-realization.
 
-To join the beta test, email us your *name*, *email*, and whether you are an *iPhone* user or *Android* user: [fluidmindapp@gmail.com](mailto:fluidmindapp@gmail.com)
+To join the beta test, send us your *name*, *email*, and whether you are an *iPhone* user or *Android* user: [fluidmindapp@gmail.com](mailto:fluidmindapp@gmail.com)
 
