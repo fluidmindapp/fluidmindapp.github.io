@@ -71,7 +71,7 @@ I had never built an app before, but I had done plenty of software in grad schoo
 
 ### Trust in FluidMind
 
-FluidMind solves the first component: *Have many people answer these questions*. The next two components are way off in the future, but I will say this: it's going to take a lot of effort to build the trust necessary to convince people to let my company collect their mental health data, even if it's fully anonymized. For now, **<span style="color: #3366ff;">I will not collect that data at all</span>**. FluidMind encrypts all your results and stores them locally to your phone - **<span style="color: #3366ff;">none of it is put on external servers</span>**.
+FluidMind solves the first component: *Have many people answer these questions*. The next two components are way off in the future, but I will say this: it's going to take a lot of effort to build the trust necessary to convince people to let my company collect their mental health data, even if it's fully anonymized. Right now, **<span style="color: #3366ff;">I do not collect that data at all</span>**. FluidMind encrypts all your results and stores them locally to your phone - **<span style="color: #3366ff;">none of it is put on external servers</span>**.
 
 It might even be possible that this day of full trust may never come. But if that's the case, then I hope in the meantime I can build something that people love to use regardless of the reason I started it.
 
