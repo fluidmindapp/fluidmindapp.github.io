@@ -3,7 +3,7 @@ layout: post
 title: "FluidMind"
 author: "Charlie"
 categories: fluidmind
-tags: [fluidmind]
+tags: [fluidmind,blog]
 image: fluidmind.png
 ---
 
