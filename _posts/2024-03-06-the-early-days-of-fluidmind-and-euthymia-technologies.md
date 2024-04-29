@@ -79,7 +79,7 @@ But FluidMind does more than just give you an indication to your potential sympt
 
 ### So where does the company come into the picture?
 
-Can't you publish an app without a business? Nope! Not if you're going to make money off of it, which I plan to using ads. But then there's also the logistics: the Google Play Store requires that you have a DUNS number (a business identification number), and to get that you need a business. So, I started Euthymia Technologies.
+Can't you publish an app without a business? Nope! Not if you're going to make money off of it, which I plan to using ads. So, I started Euthymia Technologies.
 
 And as I've been working on the app, my vision for the company is growing. I didn't call it "Euthymia Technology", I used the word *Technologies* (plural) because I believe that we can build more than just an app. FluidMind is just the starting point. I imagine a future where Euthymia Technologies makes major contributions to alleviating the suffering that is felt across the world from mental illness. So I've made it the company's mission to make sure **<span style="color: #3366ff;">every person with mental illness experiences at least one euthymia (a period of normal, healthy functioning of the mind) in their lifetime</span>**.
 
