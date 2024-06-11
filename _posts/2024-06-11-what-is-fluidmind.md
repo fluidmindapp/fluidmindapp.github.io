@@ -2,7 +2,7 @@
 layout: post
 title: "What is FluidMind?"
 author: "Charlie"
-categories: blog
+categories: [blog, fluidmind]
 tags: [blog, fluidmind]
 image: fluidmind_purple_bg.png
 ---
