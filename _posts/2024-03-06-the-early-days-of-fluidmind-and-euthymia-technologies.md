@@ -3,7 +3,7 @@ layout: post
 title: "The Early Days of FluidMind and Euthymia Technologies"
 author: "Charlie"
 categories: blog
-tags: [blog,fluidmind]
+tags: [blog, fluidmind]
 image: blog1.png
 ---
 
@@ -17,7 +17,7 @@ I had recently lost my job, as had many in the software industry, right around t
 
 I had one year of software experience in industry behind my belt, and various degrees in the computational sciences and applied mathematics, so I thought that "this shouldn't take me too long to find something new." But I was wrong - in a crumbling economy, new jobs in AI are gate-kept from those with little to no experience, like myself.
 
-So I thought "*if I can't find a job, then I'm going to have to make myself a job*."
+So I thought "_if I can't find a job, then I'm going to have to make myself a job_."
 
 ### But what would that look like?
 
@@ -25,7 +25,7 @@ In between dropping out from graduate school and my first job in tech, I had toy
 
 But what does machine learning require? Data. Lots of data. And what does the mental health field lack? Data. Lots of data. This lack of big data in mental health proved to be the demise of all my ideas that utilized machine learning.
 
-So I thought "*if the data doesn't exist, then I'm going to have to collect the data*."
+So I thought "_if the data doesn't exist, then I'm going to have to collect the data_."
 
 ### What data is worth collecting?
 
@@ -57,9 +57,9 @@ Could we make a machine (in this case, a software) that can do this, or at least
 
 That process has three components:
 
-* Have many people answer these questions.
-* Have doctor's confirm those people's diagnoses.
-* Collect and analyze all that data.
+- Have many people answer these questions.
+- Have doctor's confirm those people's diagnoses.
+- Collect and analyze all that data.
 
 ### FluidMind
 
@@ -71,16 +71,16 @@ I had never built an app before, but I had done plenty of software in grad schoo
 
 ### Trust in FluidMind
 
-FluidMind solves the first component: *Have many people answer these questions*. The next two components are way off in the future, but I will say this: it's going to take a lot of effort to build the trust necessary to convince people to let my company collect their mental health data, even if it's fully anonymized. Right now, **<span style="color: #3366ff;">I do not collect that data at all</span>**. FluidMind encrypts all your results and stores them locally to your phone - **<span style="color: #3366ff;">none of it is put on external servers</span>**.
+FluidMind solves the first component: _Have many people answer these questions_. The next two components are way off in the future, but I will say this: it's going to take a lot of effort to build the trust necessary to convince people to let my company collect their mental health data, even if it's fully anonymized. Right now, **<span style="color: #9733ff;">I do not collect that data at all</span>**. FluidMind encrypts all your results and stores them locally to your phone - **<span style="color: #9733ff;">none of it is put on external servers</span>**.
 
 It might even be possible that this day of full trust may never come. But if that's the case, then I hope in the meantime I can build something that people love to use regardless of the reason I started it.
 
-But FluidMind does more than just give you an indication to your potential symptoms and disorders, it will track your scores through time. Over the weeks of using the app on a daily basis, your results will evolve, and you can watch those fluctuations to keep track of your mental health. That's why I put the word *fluid* in FluidMind. Your mental health is not just composed of some rigid symptoms - your symptoms evolve and flow through time.
+But FluidMind does more than just give you an indication to your potential symptoms and disorders, it will track your scores through time. Over the weeks of using the app on a daily basis, your results will evolve, and you can watch those fluctuations to keep track of your mental health. That's why I put the word _fluid_ in FluidMind. Your mental health is not just composed of some rigid symptoms - your symptoms evolve and flow through time.
 
 ### So where does the company come into the picture?
 
 Can't you publish an app without a business? Nope! Not if you're going to make money off of it, which I plan to using ads. So, I started Euthymia Technologies.
 
-And as I've been working on the app, my vision for the company is growing. I didn't call it "Euthymia Technology", I used the word *Technologies* (plural) because I believe that we can build more than just an app. FluidMind is just the starting point. I imagine a future where Euthymia Technologies makes major contributions to alleviating the suffering that is felt across the world from mental illness. So I've made it the company's mission to make sure **<span style="color: #3366ff;">every person with mental illness experiences at least one euthymia (a period of normal, healthy functioning of the mind) in their lifetime</span>**.
+And as I've been working on the app, my vision for the company is growing. I didn't call it "Euthymia Technology", I used the word _Technologies_ (plural) because I believe that we can build more than just an app. FluidMind is just the starting point. I imagine a future where Euthymia Technologies makes major contributions to alleviating the suffering that is felt across the world from mental illness. So I've made it the company's mission to make sure **<span style="color: #9733ff;">every person with mental illness experiences at least one euthymia (a period of normal, healthy functioning of the mind) in their lifetime</span>**.
 
 Just as with the app, I thought, "I can build that company."

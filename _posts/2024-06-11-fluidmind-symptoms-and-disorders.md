@@ -77,4 +77,4 @@ What symptoms and disorders does FluidMind cover? The list is as follows:
 - Depersonalization-Derealization Disorder
 - Substance Use Disorder
 
-For more information on these symptoms and disorders, just click on any one of them in the **<span style="color: #3366ff;">See Results</span>** section of your app. If you have not yet tried FluidMind, you can find it on the [Apple App Store](https://apps.apple.com/app/fluidmind/id6503635625) or [Google Play Store](https://play.google.com/store/apps/details?id=com.euthymiatechnologies.fluidmind).
+For more information on these symptoms and disorders, just click on any one of them in the **<span style="color: #9733ff;">See Results</span>** section of your app. If you have not yet tried FluidMind, you can find it on the [Apple App Store](https://apps.apple.com/app/fluidmind/id6503635625) or [Google Play Store](https://play.google.com/store/apps/details?id=com.euthymiatechnologies.fluidmind).
