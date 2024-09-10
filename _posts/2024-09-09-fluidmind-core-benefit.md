@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Core Benefit of FluidMind?"
+title: "The Core Benefit of FluidMind"
 author: "Charlie"
 categories: [blog, fluidmind]
 tags: [blog, fluidmind]
