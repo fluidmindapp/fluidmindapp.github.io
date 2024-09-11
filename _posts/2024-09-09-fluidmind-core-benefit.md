@@ -9,7 +9,7 @@ image: fluidmind-core-benefit.png
 
 <small>5 min read</small>
 
-The most common question I get about [FluidMind](https://euthymiatechnologies.com/what-is-fluidmind) (available on the [Apple App Store or Google Play Store](https://euthymiatechnologies.com/fluidmind-promote)) is: "once the app tells me my depression (or alike) is acting up, then what?" What exactly is the purpose of FluidMind? To answer this question, we have to step back in the process.
+The most common question I get about [FluidMind](https://euthymiatechnologies.com/what-is-fluidmind) (available on the [Apple App Store and Google Play Store](https://euthymiatechnologies.com/fluidmind-promote)) is: "once the app tells me my depression (or alike) is acting up, then what?" What exactly is the purpose of FluidMind? To answer this question, we have to step back in the process.
 
 ### Meet Selena
 
@@ -45,7 +45,7 @@ Let's go back in time. For Selena, she begins to keep track of her manic symptom
 
 Armed with this information, her care team can assess her and they conclude that more treatment (such as an adjustment in medication, the introduction of a new therapy, or a major lifestyle change) is needed. From there, her mania scores on FluidMind start to decrease as her symptoms dampen, and she avoids all the major consequences of a fully-blown manic episode with psychotic features.
 
-### The Point
+### The Benefit
 
 **<span style="color: #9733ff;">FluidMind can tell you when your mental illness is acting up when you cannot yet identify that this is the case</span>**. Many people are in denial about their mental health or have anosognosia in severe cases, and FluidMind is an antidote.
 
