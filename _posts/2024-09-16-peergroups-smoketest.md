@@ -13,4 +13,4 @@ PeerGroups is an anonymous peer support group app where you join a small group o
 
 There are other peer support apps, such as Circles, which provides professionally moderated audio call groups at a cost of roughly $40 per month. We plan to offer PeerGroups at a significantly reduced cost.
 
-Are you interested? Preregister now by filling out this [response form](https://docs.google.com/forms/d/e/1FAIpQLSfLyZDdjiYxpqUhJvux88yhl-z0LjoAYLZJTI7ybaM0WFPvOg/viewform).
+Are you interested? Preregister now by filling out this [response form](https://docs.google.com/forms/d/e/1FAIpQLSfLyZDdjiYxpqUhJvux88yhl-z0LjoAYLZJTI7ybaM0WFPvOg/viewform) and reserve your username.
