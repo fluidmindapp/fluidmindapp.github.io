@@ -21,4 +21,4 @@ The all time question count gradings for new Beaver Statuses are spread out enou
 
 Share this blog post with all your friends who are using FluidMind so they know about the competition, and please also [join the Euthymia Technologies mailing list](https://docs.google.com/forms/d/e/1FAIpQLSc_UeuhWo5PDJP3sC0wEQucxTSzrpN8GuuRPuxWjNIUD_L_Gg/viewform) for company updates.
 
-Please note that reseting your history from the settings will also reset your Beaver Status.
+Please note that resetting your history from the settings will also reset your Beaver Status.
