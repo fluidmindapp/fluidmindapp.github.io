@@ -7,7 +7,7 @@ tags: [blog, fluidmind]
 image: bronze-beaver-status.png
 ---
 
-FluidMind now has Beaver Statuses! You will get a new Beaver Status for each unlocked grading of your all time question count. For instance: the first beaver status happens at 5 questions in total, the **<span style="color: #7dc0d5;">Blue Beaver Status</span>**; the second beaver status happens at 100 questions in total, the **<span style="color: #009933;">Green Beaver Status</span>**; and the third beaver status happens at 500 questions in total, the **<span style="color: #d94c42;">Red Beaver Status</span>**. In total, there are 10 Beaver Statuses.
+FluidMind now has Beaver Statuses! You will get a new Beaver Status for each unlocked grading of your all time question count. For instance: the first beaver status happens at 5 questions in total, the **<span style="color: #7dc0d5;">Blue Beaver Status</span>**; the second beaver status happens at 100 questions in total, the **<span style="color: #009933;">Green Beaver Status</span>**; and then at 500 questions in total you get the **<span style="color: #d94c42;">Red Beaver Status</span>**. In total, there are 10 Beaver Statuses.
 
 I am now handing out gift cards for the first person to unlock the latest, highest beaver status. The gift card will be $15 for your choice of either Tim Hortons or Starbucks.
 
