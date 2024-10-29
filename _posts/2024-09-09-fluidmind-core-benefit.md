@@ -9,7 +9,7 @@ image: fluidmind-core-benefit.png
 
 <small>5 min read</small>
 
-The most common question I get about [FluidMind](https://euthymiatechnologies.com/what-is-fluidmind) (available on the [Apple App Store and Google Play Store](https://euthymiatechnologies.com/fluidmind-promote)) is: "once the app tells me my depression (or alike) is acting up, then what?" What exactly is the purpose of FluidMind? To answer this question, we have to step back in the process.
+The most common question I get about [FluidMind](https://euthymiatechnologies.com/what-is-fluidmind) (available on the [Apple App Store and Google Play Store](https://euthymiatechnologies.com/fluidmind-core-to-appstores)) is: "once the app tells me my depression (or alike) is acting up, then what?" What exactly is the purpose of FluidMind? To answer this question, we have to step back in the process.
 
 ### Meet Selena
 
