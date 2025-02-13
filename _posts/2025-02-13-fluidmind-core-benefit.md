@@ -13,7 +13,7 @@ The most common question I get about [FluidMind](https://euthymiatechnologies.co
 
 ### Meet Selena
 
-Consider someone with a severe mental illness, such as bipolar disorder - let's call her Selena. This disorder is characterized by episodic depression and mania, both of which can have grave consequences for those who suffer with this condition: a lost job, a divorce, a hospitalization, psychosis, or even a suicide attempt. Avoiding these traumatic outcomes is a major goal in the modern treatment of mental illness.
+Consider someone with a severe mental health condition, such as bipolar disorder - let's call her Selena. This disorder is characterized by episodic depression and mania, both of which can have grave consequences for those who suffer with this condition: a lost job, a divorce, a hospitalization, psychosis, or even a suicide attempt. Avoiding these traumatic outcomes is a major goal in the modern treatment of mental health conditions.
 
 Selena is currently [euthymic](https://dictionary.apa.org/euthymia). With past treatment, she is living her life with minimal symptoms: she's keeping down a full-time job, she has a healthy relationship, and she hasn't had symptoms of psychosis for well over a year. But then something changes for Selena.
 
@@ -47,10 +47,10 @@ Armed with this information, her care team can assess her and they conclude that
 
 ### The Benefit
 
-**<span style="color: #9733ff;">FluidMind can tell you when your mental illness is acting up when you cannot yet identify that this is the case</span>**. Many people are in denial about their mental health or have anosognosia in severe cases, and FluidMind is an antidote.
+**<span style="color: #9733ff;">FluidMind can tell you when your mental health is acting up when you cannot yet identify that this is the case</span>**. Many people are in denial about their mental health or have anosognosia in severe cases, and FluidMind is an antidote.
 
-What the user decides to do when a symptom score starts to increase is up to them, but now they are working with more information and insight into their mental illness with the help of FluidMind. That is the core benefit of FluidMind.
+What the user decides to do when a symptom score starts to increase is up to them, but now they are working with more information and insight into their mental health condition with the help of FluidMind. That is the core benefit of FluidMind.
 
-As a developer, and someone waging a crusade against mental illness, if I can get even one person to evade a major episode of mental illness through the use of FluidMind, then that will be a great success. Mental illness causes serious suffering and dysfunction in one's life, and we need more tools to combat the devastating effects of these disorders. [FluidMind](https://euthymiatechnologies.com/what-is-fluidmind) is just one of these many tools which I plan to build at Euthymia Technologies.
+As a developer, and someone waging a crusade against mental health challenges, if I can get even one person to evade an episode through the use of FluidMind, then that will be a great success. Mental health conditions cause serious suffering and dysfunction in one's life, and we need more tools to combat the devastating effects of these disorders. [FluidMind](https://euthymiatechnologies.com/what-is-fluidmind) is just one of these many tools which I plan to build at Euthymia Technologies.
 
 Please [join the Euthymia Technologies mailing list](https://docs.google.com/forms/d/e/1FAIpQLSc_UeuhWo5PDJP3sC0wEQucxTSzrpN8GuuRPuxWjNIUD_L_Gg/viewform) for monthly updates on our progress.
